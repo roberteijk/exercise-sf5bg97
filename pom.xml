@@ -15,7 +15,7 @@
     <description>Exercise from Spring Framework 5 Beginner to Guru, video 97.</description>
 
     <properties>
-        <java.version>1.8</java.version>
+        <java.version>1.11</java.version>
     </properties>
 
     <dependencies>
